@@ -11,6 +11,12 @@
 			"style": {
 				"navigationBarTitleText": "ChuJC-Baidu-OCR原生插件"
 			}
+		},
+		{
+			"path": "pages/face/collect",
+			"style": {
+				"navigationBarTitleText": "ChuJC-Baidu-Face-collect原生插件"
+			}
 		}
 	],
 	"globalStyle": {

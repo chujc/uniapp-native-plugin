@@ -27,7 +27,14 @@
 					name:'Baidu-OCR原生插件',
 					open:false,
 					url:'/pages/ocr/ocr'
-				}],
+				},
+				{
+					id:'face-collect',
+					name:'ChuJC-Baidu-Face-collect原生插件',
+					open:false,
+					url:'/pages/face/collect'
+				}
+				],
 				navigateFlag: false
 			}
 		},
