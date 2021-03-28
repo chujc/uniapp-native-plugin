@@ -56,7 +56,8 @@
                     "NSCameraUsageDescription" : "拍照识别图片",
                     "NSPhotoLibraryUsageDescription" : "拍照识别图片",
                     "NSPhotoLibraryAddUsageDescription" : "拍照识别图片"
-                }
+                },
+                "idfa" : false
             },
             /* SDK配置 */
             "sdkConfigs" : {
@@ -69,6 +70,20 @@
                     "name" : "ChuJCBaiDuOCRUniPlugin",
                     "description" : "uni示例插件",
                     "platforms" : "Android,iOS",
+                    "url" : "",
+                    "android_package_name" : "",
+                    "ios_bundle_id" : "",
+                    "isCloud" : false,
+                    "bought" : -1,
+                    "pid" : "",
+                    "parameters" : {}
+                }
+            },
+            "ChuJC-Baidu-Face-Collect" : {
+                "__plugin_info__" : {
+                    "name" : "ChuJCBaiDuFacCollectUniPlugin",
+                    "description" : "百度人脸采集插件",
+                    "platforms" : "Android,ios",
                     "url" : "",
                     "android_package_name" : "",
                     "ios_bundle_id" : "",
